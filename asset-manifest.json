@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/multiple-input-react/static/css/main.551b985a.chunk.css",
+    "main.js": "/multiple-input-react/static/js/main.fb74e7d5.chunk.js",
+    "main.js.map": "/multiple-input-react/static/js/main.fb74e7d5.chunk.js.map",
+    "runtime-main.js": "/multiple-input-react/static/js/runtime-main.97801ba8.js",
+    "runtime-main.js.map": "/multiple-input-react/static/js/runtime-main.97801ba8.js.map",
+    "static/js/2.58321e29.chunk.js": "/multiple-input-react/static/js/2.58321e29.chunk.js",
+    "static/js/2.58321e29.chunk.js.map": "/multiple-input-react/static/js/2.58321e29.chunk.js.map",
+    "static/js/3.e7c2534b.chunk.js": "/multiple-input-react/static/js/3.e7c2534b.chunk.js",
+    "static/js/3.e7c2534b.chunk.js.map": "/multiple-input-react/static/js/3.e7c2534b.chunk.js.map",
+    "index.html": "/multiple-input-react/index.html",
+    "static/css/main.551b985a.chunk.css.map": "/multiple-input-react/static/css/main.551b985a.chunk.css.map",
+    "static/js/2.58321e29.chunk.js.LICENSE.txt": "/multiple-input-react/static/js/2.58321e29.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97801ba8.js",
+    "static/js/2.58321e29.chunk.js",
+    "static/css/main.551b985a.chunk.css",
+    "static/js/main.fb74e7d5.chunk.js"
+  ]
+}
